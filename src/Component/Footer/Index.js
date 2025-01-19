@@ -150,8 +150,9 @@ const Index = () => {
       <div className="lg:flex lg:items-center justify-center">
 
 
-        <p className='text-gray-300 text-sm mt-10'>© Handcrafted ❤ by <a href='https://psgpraveen.github.io/port/' target='_blank'
-          className="hover:underline hover:text-blue-500 mx-1">PsgPraveen & Himanshu</a>
+        <p className='text-gray-300 text-sm mt-10'>© Handcrafted ❤ by <a href='https://github.com/GenKrit'
+ target='_blank'
+          className="hover:underline hover:text-blue-500 mx-1">Shashwat Pandey</a>
         </p>
 
       </div>
