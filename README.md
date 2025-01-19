@@ -68,9 +68,9 @@ This project is licensed under the MIT License.
 Contact
 For inquiries or collaboration, please reach out to:
 
-Email: adm21002947@rmlau.ac.in
-LinkedIn: Praveen Kumar Gupta
-Developed with 💻 and ❤️ by Praveen Kumar Gupta.
+Email: 22f2000067@ds.study.iitm.ac.in 
+LinkedIn: Shashwat Pandey
+Developed with 💻 and ❤️ by Shashwat Pandey 
 
 
 
