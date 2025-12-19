@@ -116,5 +116,3 @@ const Index = () => {
 };
 
 export default Index;
-
-keep core same so that i cann directly replace code n github
